@@ -1,14 +1,14 @@
-# NAME: Proxy
-# AUTHOR: blackmatrix7
-# GITHUB: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-01-02 03:50:44
-# DOMAIN-SUFFIX: 5996
-# DOMAIN: 15
-# DOMAIN-KEYWORD: 30
-# IP-CIDR: 94
-# IP-CIDR6: 3
-# TOTAL: 6138
 payload:
+  # NAME: Proxy
+  # AUTHOR: blackmatrix7
+  # GITHUB: https://github.com/blackmatrix7/ios_rule_script
+  # UPDATED: 2021-01-02 03:50:44
+  # DOMAIN-SUFFIX: 5996
+  # DOMAIN: 15
+  # DOMAIN-KEYWORD: 30
+  # IP-CIDR: 94
+  # IP-CIDR6: 3
+  # TOTAL: 6138
   - 'assets-priconne-redive-us.akamaized.net'
   - 'az416426.vo.msecnd.net'
   - 'az668014.vo.msecnd.net'
